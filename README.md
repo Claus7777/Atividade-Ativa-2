@@ -1,1 +1,1 @@
-Segunda Atividade de Programação Web
+Segunda Atividade de Tecnologias Web
